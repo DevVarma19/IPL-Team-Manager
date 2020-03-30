@@ -1,0 +1,16 @@
+=================================================
+            CHENNAI_SUPER_KINGS(CSK)
+=================================================
+S.NO           PLAYERS                  ROLE
+1.           SURESH_RAINA             BATSMEN
+2.           MS_DHONI(WK)(CAPTAIN)    BATSMEN
+3.           AMBHATI_RAYUDU           BATSMEN
+4.           SHANE_WATSON             ALL-ROUNDER
+5            DWAYNE_BRAVO             ALL-ROUNDER
+6.           SAM_BILLINGS             ALL-ROUNDER
+7.           RAVINDRA_JADEJA          ALL-ROUNDER
+8.           HARBHAJAN_SINGH          BOWLER
+9.           DEEPAK_CHAHAR            BOWLER
+10.          SHARDUL_THAKUR           BOWLER
+11.          IMRAN-TAHIR              BOWLER
+==================================================

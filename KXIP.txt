@@ -1,0 +1,16 @@
+============================================
+		KINGS XI PUNJAB(KXIP)
+============================================
+S.NO		 PLAYERS	      ROLE
+1.		KL.RAHUL           WICKET-KEEPER
+2.              CHRIS GAYLE        BATSMAN
+3.              SARFARAZ KHAN      BATSMAN
+4.              DAVID MILLER       BATSMAN
+5.              MAYANK AGARWAL     BATSMAN
+6.              MANDEEP SINGH      BATSMAN
+7.              SAM CURRAN         BOWLER
+8.              ANDREW TYE         BOWLER
+9.              MURGAN ASHWIN      BOWLER
+10.             MOHAMMED SHAMI     BOWLER
+11.             R.ASHWIN(CAPTAIN)  BOWLER
+============================================

@@ -1,0 +1,16 @@
+=================================================
+            ROYAL_CHALLENGERS_BANGALORE(RCB)
+=================================================
+S.NO           PLAYER                   ROLE
+1.           VIRAT_KOHLI(C)            BATSMAN
+2.           HETMEYER                  BATSMAN
+3.           PAWAN NEGI                BATSMAN
+4.           PARTHIV PATEL             WICKET-KEEPER
+5            AB_DE_VILLERS             BATSMAN
+6.           COREY_ANDERSON            ALL-ROUNDER
+7.           WASHINGTON_SUNDAR         ALL-ROUNDER
+8.           TIM SOUTHEE               BOWLER
+9.           UMESH_YADAV               BOWLER
+10.          MOHAMMAD_SIRAJ            BOWLER
+11.          YUZVENDAR_CHAHAL          BOWLER
+==================================================

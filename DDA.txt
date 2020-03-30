@@ -1,0 +1,122 @@
+----------------------------------------------
+		DELHI CAPITALS(DC)
+----------------------------------------------
+1. PRITHVI SHAW
+
+MATCHES		=	89
+RUNS   		=	1023
+HIGH_SCORE	=	99
+6'S		=	44
+4'S		=	56
+STRIKE_RATE	=	116.4
+----------------------------------------------
+2. SHIKAR DHAWAN
+
+MATCHES		=	123
+RUNS		=	2567
+HIGH_SCORE	=	89*
+6'S		=	100
+4'S		=	125
+STRIKE_RATE	=	115.9
+----------------------------------------------
+3.SHREYAS_IYER
+
+MATCHES		=	46
+RUNS		=	899
+HIGH_SCORE	=	78
+6'S		=	19
+4'S		=	20
+STRIKE_RATE	=	102.5
+-----------------------------------------------
+4.RISHABH_PANT
+
+MATCHES		=	41
+RUNS		=	1036
+HIGH_SCORE	=	126*
+6'S		=	36
+4'S		=	70
+STRIKE_RATE	=	131.5
+-----------------------------------------------
+5.RAHUL TEWATIA
+
+MATCHES		=	101
+RUNS		=	1256
+HIGH_SCORE	=	57
+6'S		=	98
+4'S		=	56
+STRIKE_RATE	=	121.6
+-----------------------------------------------
+6.CHRIS MORRIS
+
+MATCHES		=	89
+RUNS		=	1025
+HIGH_SCORE	=	67*
+6'S		=	56
+4'S		=	89
+STRIKE_RATE	=	143.5
+----------------------------------------------
+7.AXAR PATEL
+
+MATCHES		=	160
+RUNS		=	2004
+HIGH_SCORE	=	45*
+6'S		=	65
+4'S		=	89
+STRIKE_RATE	=	131.5
+-----------------------------------------------
+8.KASIGO RABADA
+(BATTING)
+MATCHES		=	23
+RUNS		=	59
+HIGH_SCORE	=	30*
+6'S		=	1
+4'S		=	3
+STRIKE_RATE	=	98.4
+
+(BOWLING)
+MATCHES		=	23
+WICKETS		=	23
+ECONOMY		=	7.89
+------------------------------------------------
+9.TRENT BOULT
+(BATTING)
+MATCHES		=	89
+RUNS		=	589
+HIGH_SCORE	=	291*
+6'S		=	11
+4'S		=	23
+STRIKE_RATE	=	89.2
+
+(BOWLING)
+MATCHES		=	89
+WICKETS		=	100
+ECONOMY		=	5.65
+-------------------------------------------------
+10.ISHANT SHARMA
+(BATTING)
+MATCHES		=	79
+RUNS		=	116
+HIGH_SCORE	=	7*
+6'S		=	1
+4'S		=	8
+STRIKE_RATE	=	54.7
+
+(BOWLING)
+MATCHES		=	79
+WICKETS		=	78
+ECONOMY		=	9.56
+--------------------------------------------------
+11.RAHUL TEWATIA
+(BATTING)
+MATCHES		=	77
+RUNS		=	100
+HIGH_SCORE	=	15
+6'S		=	0
+4'S		=	11
+STRIKE_RATE	=	89.6
+
+(BOWLING)
+MATCHES		=	77
+WICKETS		=	124
+ECONOMY		=	4.22
+--------------------------------------------------

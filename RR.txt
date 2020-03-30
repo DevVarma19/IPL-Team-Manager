@@ -1,0 +1,16 @@
+==============================================
+		RAJASTAN_ROYALS(RR)
+==============================================
+S.NO		PLAYERS			ROLE
+1.            AJINKYA RAHANE(CAPTAIN) BATSMAN 
+2.	      JOS BUTTLER            WICKET-KEEPER
+3.	      STEVEN SMITH           BATSMAN
+4.	      RAHUL TRIPATHI         BATSMAN
+5.            BEN STOKES             ALL-ROUNDER
+6.            PRASHANT CHOPRA        BATSMAN
+7.	      KRISHNAPPA GOWTHAM     BOWLER
+8.	      JOFRA ARCHER           BOWLER
+9.            SHREYAS GOPAL          BOWLER
+10.           DHAWAL KULKARNI	     BOWLER
+11.           JAYADEV UNADKAT        BOWLER
+==============================================

@@ -1,0 +1,122 @@
+----------------------------------------------
+		KINGS XI PUNJAB(KXIP)
+----------------------------------------------
+1. KL.RAHUL
+
+MATCHES		=	101
+RUNS   		=	2223
+HIGH_SCORE	=	100
+6'S		=	44
+4'S		=	56
+STRIKE_RATE	=	136.4
+----------------------------------------------
+2. CHRIS GAYLE
+
+MATCHES		=	123
+RUNS		=	3659
+HIGH_SCORE	=	175*
+6'S		=	100
+4'S		=	125
+STRIKE_RATE	=	165.9
+----------------------------------------------
+3.SARFARAZ KHAN
+
+MATCHES		=	46
+RUNS		=	899
+HIGH_SCORE	=	78
+6'S		=	19
+4'S		=	20
+STRIKE_RATE	=	102.5
+-----------------------------------------------
+4.DAVID MILLER
+
+MATCHES		=	41
+RUNS		=	1036
+HIGH_SCORE	=	56*
+6'S		=	36
+4'S		=	70
+STRIKE_RATE	=	131.5
+-----------------------------------------------
+5.MAYANK AGARWAL
+
+MATCHES		=	101
+RUNS		=	1256
+HIGH_SCORE	=	57
+6'S		=	98
+4'S		=	56
+STRIKE_RATE	=	121.6
+-----------------------------------------------
+6.MANDEEP SINGH
+
+MATCHES		=	89
+RUNS		=	1025
+HIGH_SCORE	=	67*
+6'S		=	56
+4'S		=	89
+STRIKE_RATE	=	143.5
+----------------------------------------------
+7.SAM CURRAN
+
+MATCHES		=	11
+RUNS		=	20
+HIGH_SCORE	=	14*
+6'S		=	0
+4'S		=	0
+STRIKE_RATE	=	65.5
+-----------------------------------------------
+8.ANDREW TYE
+(BATTING)
+MATCHES		=	23
+RUNS		=	59
+HIGH_SCORE	=	30*
+6'S		=	1
+4'S		=	3
+STRIKE_RATE	=	98.4
+
+(BOWLING)
+MATCHES		=	23
+WICKETS		=	23
+ECONOMY		=	7.89
+------------------------------------------------
+9.MURGAN ASHWIN
+(BATTING)
+MATCHES		=	89
+RUNS		=	589
+HIGH_SCORE	=	291*
+6'S		=	11
+4'S		=	23
+STRIKE_RATE	=	89.2
+
+(BOWLING)
+MATCHES		=	89
+WICKETS		=	100
+ECONOMY		=	5.65
+-------------------------------------------------
+10.MOHAMMED SHAMI
+(BATTING)
+MATCHES		=	79
+RUNS		=	116
+HIGH_SCORE	=	7*
+6'S		=	1
+4'S		=	8
+STRIKE_RATE	=	54.7
+
+(BOWLING)
+MATCHES		=	79
+WICKETS		=	78
+ECONOMY		=	9.56
+--------------------------------------------------
+11.R.ASHWIN
+(BATTING)
+MATCHES		=	77
+RUNS		=	100
+HIGH_SCORE	=	15
+6'S		=	0
+4'S		=	11
+STRIKE_RATE	=	89.6
+
+(BOWLING)
+MATCHES		=	77
+WICKETS		=	124
+ECONOMY		=	4.22
+--------------------------------------------------

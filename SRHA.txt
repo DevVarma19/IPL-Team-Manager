@@ -1,0 +1,120 @@
+----------------------------------------------
+		SUNRISERS HYDERBAD(SRH)
+----------------------------------------------
+1. DAVID WARNER
+
+MATCHES		=	101
+RUNS   		=	2223
+HIGH_SCORE	=	100
+6'S		=	44
+4'S		=	56
+STRIKE_RATE	=	136.4
+----------------------------------------------
+2. MANISH PANDEY
+
+MATCHES		=	3
+RUNS		=	20
+HIGH_SCORE	=	6
+6'S		=	0
+4'S		=	4
+STRIKE_RATE	=	56.2
+----------------------------------------------
+3.KANE WILLIAMSON
+
+MATCHES		=	46
+RUNS		=	899
+HIGH_SCORE	=	78
+6'S		=	19
+4'S		=	20
+STRIKE_RATE	=	102.5
+-----------------------------------------------
+4.SHAKIB AL HASAN
+
+MATCHES		=	41
+RUNS		=	1036
+HIGH_SCORE	=	56*
+6'S		=	36
+4'S		=	70
+STRIKE_RATE	=	131.5
+-----------------------------------------------
+5.DEEPAK HOODA
+
+MATCHES		=	101
+RUNS		=	1256
+HIGH_SCORE	=	57
+6'S		=	98
+4'S		=	56
+STRIKE_RATE	=	121.6
+-----------------------------------------------
+6.YUSUF PATHAN
+
+MATCHES		=	89
+RUNS		=	1025
+HIGH_SCORE	=	82*
+6'S		=	56
+4'S		=	89
+STRIKE_RATE	=	143.5
+----------------------------------------------
+7.JOHNY BAIRSTOW
+MATCHES		=	25
+RUNS		=	500
+HIGH_SCORE	=	50*
+6'S		=	12
+4'S		=	20
+STRIKE_RATE	=	105.5
+-----------------------------------------------
+8.BHUVANESHWAR KUMAR
+(BATTING)
+MATCHES		=	23
+RUNS		=	59
+HIGH_SCORE	=	30*
+6'S		=	1
+4'S		=	3
+STRIKE_RATE	=	98.4
+
+(BOWLING)
+MATCHES		=	23
+WICKETS		=	20
+ECONOMY		=	7.89
+------------------------------------------------
+9.SIDDHARTH KAUL
+(BATTING)
+MATCHES		=	89
+RUNS		=	589
+HIGH_SCORE	=	29*
+6'S		=	11
+4'S		=	23
+STRIKE_RATE	=	89.2
+
+(BOWLING)
+MATCHES		=	89
+WICKETS		=	61
+ECONOMY		=	10.65
+-------------------------------------------------
+10.BILLY STANLAKE
+(BATTING)
+MATCHES		=	25
+RUNS		=	12
+HIGH_SCORE	=	12*
+6'S		=	0
+4'S		=	2
+STRIKE_RATE	=	104.7
+
+(BOWLING)
+MATCHES		=	25
+WICKETS		=	6
+ECONOMY		=	15.56
+--------------------------------------------------
+11.RASHID KHAN
+(BATTING)
+MATCHES		=	77
+RUNS		=	100
+HIGH_SCORE	=	15
+6'S		=	0
+4'S		=	11
+STRIKE_RATE	=	89.6
+
+(BOWLING)
+MATCHES		=	77
+WICKETS		=	124
+ECONOMY		=	4.22

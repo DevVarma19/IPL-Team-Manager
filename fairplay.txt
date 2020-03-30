@@ -1,0 +1,13 @@
+	      			FAIR PLAY			
+-----------------------------------------------------------------------
+S.NO		TEAMS		     POINTS		MATCHES
+-----------------------------------------------------------------------
+1.	   CHENNAI SUPER KINGS	      124		  04
+2.	ROYAL CHALLENGERS BANGLORE    110                 04
+3.	    RAJASTAN ROYALS           100                 04
+4.	   DELHI CAPITALS             98                  04
+5.	 SUNRISERS HYDERABAD          90                  04
+6.	   KINGS XI PUNJAB	      85                  04
+7.	    MUMBAI INDIANS            76                  04
+8.          KOLKATA KNIGHT RIDERS     70                  04
+-----------------------------------------------------------------------

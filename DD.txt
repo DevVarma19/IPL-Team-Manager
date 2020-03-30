@@ -1,0 +1,16 @@
+=================================================
+            DELHI_CAPITALS(DC)
+=================================================
+S.NO           PLAYER                   ROLE
+1.           PRITHVI SHAW             BATSMEN
+2.           SHIKHAR DHAWAN           BATSMEN
+3.           SHREYAS IYER             BATSMEN
+4.           RISHABH PANT             WICKET-KEEPER
+5            RAHUL TEWATIA            BOWLER
+6.           CHRIS_MORIS              ALL-ROUNDER
+7.           AXAR PATEL               BOWLER
+8.           KASIGO RABADA            BOWLER
+9.           RAHUL_TEWATIA            BOWLER
+10.          TRENT_BOULT              BOWLER
+11.          ISHANT SHARMA            BOWLER
+==================================================

@@ -1,0 +1,20 @@
+=======================================================                
+                   TOURNAMENT_SCHEDULE_DISPLAY
+=======================================================
+S.NO                MATCHES                      VENUE
+
+1.                  MI(V/S)CSK                  MUMBAI
+2.                  RCB(V/S)DD                  BANGALORE
+3.                  MI(V/S)SRH                  MUMBAI
+4.                  CSK(V/S)DD                  CHENNAI
+5.                  SRH(V/S)RCB                 HYDERBAD
+6.                  DD(V/S)CSK                  DELHI
+7.                  RCB(V/S)MI                  BANGALORE
+8.                  CSK(V/S)SRH                 CHENNAI
+9.                  MI(V/S)DD                   DELHI
+10.                 RCB(V/S)CSK                 CHENNAI
+11.		    KKR(V/S)KXIP		PUNJAB
+12.		    RR(V/S)KXIP			RAJASTAN
+13.		    KKR(V/S)RR			EDEN GARDENS
+11.          table_topper1(v/s)table_topper2    KOLKATA 
+=========================================================            

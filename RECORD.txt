@@ -1,0 +1,17 @@
+**************************************************
+                   POINTS_TABLE
+**************************************************
+S.NO    TEAMS   MATCHES   WON   LOST   POINTS
+1.       CSK       4       3     1       12
+2.       MI        4       2     2       08
+3.       RCB       4       2     2       08
+4.       SRH       4       2     2       08
+5.       DD        4       1     3       04
+6.	 KKR	   4	   1	 3	 04
+7.	 RR	   4       0	 4	 00
+8.	 KXIP      4       0     4       00
+**************************************************
+FINALE_WON_BY -"CHENNAI SUPER KINGS"
+MOST_RUNS     -"MAHENDRA SINGH DHONI"
+MOST_WICKETS  -"JASPRIT BUMRAH"
+==================================================

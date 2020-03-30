@@ -1,0 +1,16 @@
+=================================================
+            MUMBAI_INDIANS(MI)
+=================================================
+S.NO           PLAYER                   ROLE
+1.           EVIN_LEWIS               BATSMEN
+2.           ROHIT_SHARMA(C)          BATSMEN
+3.           SURYAKUMAR_YADAV         BATSMEN
+4.           KIERON_POLLARD           ALL-ROUNDER
+5            ISHAN_KISHAN(WK)         BATSMAN
+6.           KRUNAL_PANDYA            ALL-ROUNDER
+7.           HARDIK_PANDYA            BATSMAN
+8.           JASPRIT_BUMRAH           BOWLER
+9.           MAYANK_MARKANDE          BOWLER
+10.          ALZZARI_JOSEPH           BOWLER
+11.          MITCHELL_MCCLENAGHAN     BOWLER
+==================================================

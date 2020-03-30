@@ -1,0 +1,122 @@
+----------------------------------------------
+		CHENNAI_SUPER_KINGS(CSK)
+----------------------------------------------
+1. SURESH_RAINA
+
+MATCHES		=	160
+RUNS   		=	5006
+HIGH_SCORE	=	87
+6'S		=	84
+4'S		=	124
+STRIKE_RATE	=	116.4
+----------------------------------------------
+2.MS_DHONI(CAPTAIN)
+
+MATCHES		=	166
+RUNS		=	0
+HIGH_SCORE	=	0
+6'S		=	0
+4'S		=	0
+STRIKE_RATE	=	0
+----------------------------------------------
+3.AMBHATI_RAYUDU
+
+MATCHES		=	110
+RUNS		=	2655
+HIGH_SCORE	=	98
+6'S		=	89
+4'S		=	90
+STRIKE_RATE	=	102.5
+-----------------------------------------------
+4.SHANE_WATSON
+
+MATCHES		=	115
+RUNS		=	3456
+HIGH_SCORE	=	101*
+6'S		=	100
+4'S		=	90
+STRIKE_RATE	=	131.5
+-----------------------------------------------
+5.DWAYNE_BRAVO
+
+MATCHES		=	101
+RUNS		=	1256
+HIGH_SCORE	=	57
+6'S		=	98
+4'S		=	56
+STRIKE_RATE	=	121.6
+-----------------------------------------------
+6.SAM_BILLINGS
+
+MATCHES		=	89
+RUNS		=	1025
+HIGH_SCORE	=	67*
+6'S		=	56
+4'S		=	89
+STRIKE_RATE	=	143.5
+----------------------------------------------
+7.RAVINDRA_JADEJA
+
+MATCHES		=	160
+RUNS		=	2004
+HIGH_SCORE	=	45*
+6'S		=	65
+4'S		=	89
+STRIKE_RATE	=	131.5
+-----------------------------------------------
+8.HARBHAJAN_SINGH
+(BATTING)
+MATCHES		=	115
+RUNS		=	989
+HIGH_SCORE	=	30*
+6'S		=	15
+4'S		=	39
+STRIKE_RATE	=	98.4
+
+(BOWLING)
+MATCHES		=	115
+WICKETS		=	123
+ECONOMY		=	7.89
+------------------------------------------------
+9.DEEPAK CHAHAR
+(BATTING)
+MATCHES		=	89
+RUNS		=	589
+HIGH_SCORE	=	291*
+6'S		=	11
+4'S		=	23
+STRIKE_RATE	=	89.2
+
+(BOWLING)
+MATCHES		=	89
+WICKETS		=	100
+ECONOMY		=	5.65
+-------------------------------------------------
+10.SHARDUL_THAKUR
+(BATTING)
+MATCHES		=	79
+RUNS		=	116
+HIGH_SCORE	=	7*
+6'S		=	1
+4'S		=	8
+STRIKE_RATE	=	54.7
+
+(BOWLING)
+MATCHES		=	79
+WICKETS		=	78
+ECONOMY		=	9.56
+--------------------------------------------------
+11.IMRAN_TAHIR
+(BATTING)
+MATCHES		=	77
+RUNS		=	100
+HIGH_SCORE	=	15
+6'S		=	0
+4'S		=	11
+STRIKE_RATE	=	89.6
+
+(BOWLING)
+MATCHES		=	77
+WICKETS		=	124
+ECONOMY		=	4.22
+--------------------------------------------------

@@ -1,0 +1,17 @@
+
+================================================
+	     KOLKATA KNIGHT RIDERS(KKR)
+================================================
+S.NO              PLAYERS               ROLE
+1.		SUNIL NARINE         ALL-ROUNDER
+2.              CHRIS LYNN           BATSMAN
+3.              ROBIN UTHAPPA        BATSMAN
+4.              NITISH RANA          BATSMAN
+5.              DINESH KARTHIK(CAPTAIN) WICKET-KEEPER
+6.              SHUBMAN GILL         BATSMAN
+7.              ANDRE RUSSELL        ALL-ROUNDER
+8.              PIYUSH CHAWLA        BOWLER
+9.              KULDEEP YADAV        BOWLER
+10.             HARRY GURNEY         BOWLER
+11.             PRASIDH KRISHNA      BOWLER
+================================================
